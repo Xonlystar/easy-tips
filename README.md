@@ -21,3 +21,5 @@
 * [一些额外的tips](https://github.com/Xonlystar/easy-tips/blob/master/tips/tips.md)
 
 * [速农面试](https://github.com/Xonlystar/easy-tips/blob/master/tips/速农网络.md)
+
+* [电商宝面试](https://github.com/Xonlystar/easy-tips/blob/master/tips/电商宝.md)
