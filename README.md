@@ -23,3 +23,5 @@
 * [速农面试](https://github.com/Xonlystar/easy-tips/blob/master/tips/速农网络.md)
 
 * [电商宝面试](https://github.com/Xonlystar/easy-tips/blob/master/tips/电商宝.md)
+
+* [肖邦和微盘面试](https://github.com/Xonlystar/easy-tips/blob/master/tips/肖邦-微盘.md)
