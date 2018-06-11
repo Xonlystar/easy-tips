@@ -25,3 +25,5 @@
 * [电商宝面试](https://github.com/Xonlystar/easy-tips/blob/master/tips/电商宝.md)
 
 * [肖邦和微盘面试](https://github.com/Xonlystar/easy-tips/blob/master/tips/肖邦-微盘.md)
+
+* [面试总结1](https://github.com/Xonlystar/easy-tips/blob/master/tips/面试总结1.md)
